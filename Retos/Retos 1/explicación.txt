@@ -1,0 +1,13 @@
+Retos en Python
+
+Gómez de la Torre Heidi Lizbeth
+
+Agregué este .txt solamente para aclarar por qué existen dos tipos de Guess My Number:
+
+> guess_my_number.py = Este archivo del reto contiene el juego con una limitación de intentos para el usuario,
+en el cual si no adivina en los intentos mencionados, el programa saldrá mostrando un mensaje de castigo.
+
+> guess_my_number2.py = Este archivo del reto contiene el juego en el cual los intentos no están limitados,
+pero cada 10 intentos sin adivinar, el programa mostrará un mensaje de castigo al usuario.
+
+Es todo, gracias. c:
